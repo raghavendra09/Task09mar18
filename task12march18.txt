@@ -1,0 +1,30 @@
+Stigentech Question Paper.
+
+1.Convert Individual string element into int type and check if its palindrome or not.
+
+String[] str = {“1254”, “4556”,  “ 75657”, “8875788”};
+
+2.Binary Search
+int[] intarray={1,2,3,4,5,6,7,8,9}
+
+3.Create checked and unchecked custom exception and make use of throw and throws.(Create your own situation and fulfill the criteria).
+
+4.Create a banking project and complete the maximum methods discussed fulfilling the SOLI principles excluding D principle.
+
+5. Take customer class with first name, last name, age, id. Now with the TreeSet given below by making use of Comparator interface and sort with id and then age if age is same then again sort with first name if firstname is same then sort with second name.
+
+TreeSet ts = new TreeSet(comparator);
+        ts.add(new Customer(1034,25, “Rajesh”, “Kathi”);
+ts.add(new Customer(1032,26, “Abhilash”, “Suhan”);
+ts.add(new Customer(1033,26, “Mujeeb”, “Md”);
+ts.add(new Customer(1039,36, “Sirish”, “Vadhwa”);
+ts.add(new Customer(1025,25, “Abhilash”, “Suhan”);
+ts.add(new Customer(1028,20, “Sonal”, “Gadwe”);
+ts.add(new Customer(1029,26, “Mujeeb”, “Mohammed”);
+
+-- 
+Regards,
+Nagarjuna P
+Java Lead
+SITS 0924
+Stigentech It Services Pvt Ltd
